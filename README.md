@@ -8,7 +8,7 @@ Built for **Future Interns — Prompt Engineering Task 3 (2026)**.
 **Repository:** [github.com/pillisandeep497-byte/ai-seo-content-cluster](https://github.com/pillisandeep497-byte/ai-seo-content-cluster)
 
 ---
-
+**live link:** https://deft-sherbet-e51d3a.netlify.app/
 ## What problem this solves
 
 Most business websites don't get traffic because they "post articles" instead of building strategy. Content goes up randomly, nothing internally links, keywords overlap, and the pages that could convert have no prices in them.
